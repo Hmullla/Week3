@@ -1,0 +1,51 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.container2 {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sm {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bold;
+}
+
+section {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
